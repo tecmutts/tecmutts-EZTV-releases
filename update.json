@@ -1,7 +1,7 @@
 {
-    "versionCode": 2,
-    "versionName": "1.0.1",
-    "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/download/v1.0.1/EZTV.apk",
-    "releaseNotes": "EPG fix: all USA channels now populate correctly. VOD player crash fixed. Auto-update system added.",
-    "forceUpdate": false
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/download/v1.0.2/EZTV.apk",
+  "releaseNotes": "Live TV moved to first card on home screen. EPG now-playing titles now appear as subtitles under each channel in classic view.",
+  "forceUpdate": false
 }
