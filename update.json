@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/download/v1.0.2/EZTV.apk",
-  "releaseNotes": "Live TV moved to first card on home screen. EPG now-playing titles now appear as subtitles under each channel in classic view.",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/download/v1.0.3/EZTV.apk",
+  "releaseNotes": "Update check now fires on every app launch/resume. Added Check for Updates button in Settings.",
   "forceUpdate": false
 }
