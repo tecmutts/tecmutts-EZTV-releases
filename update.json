@@ -1,7 +1,7 @@
 {
-    "versionCode": 6,
-    "versionName": "1.0.5",
+    "versionCode": 7,
+    "versionName": "1.0.6",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "Fix app auto-updater: install prompt now appears after download completes.",
+    "releaseNotes": "Fix search navigation: series results now open the series detail page for episode selection. Live TV channels searched now auto-tune instead of buffering.",
     "forceUpdate": false
 }
