@@ -1,7 +1,7 @@
 {
-    "versionCode": 7,
-    "versionName": "1.0.6",
+    "versionCode": 9,
+    "versionName": "1.0.8",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "Fix search navigation: series results now open the series detail page for episode selection. Live TV channels searched now auto-tune instead of buffering.",
-    "forceUpdate": false
+    "releaseNotes": "Add favorite toggle to search results — long-press any result to add/remove favorites.",
+    "forceUpdate": true
 }
