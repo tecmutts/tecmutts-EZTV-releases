@@ -1,7 +1,7 @@
 {
-    "versionCode": 11,
-    "versionName": "1.0.10",
-    "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/download/v1.0.10/EZTV.apk",
-    "releaseNotes": "Fix: Screen no longer dims or enters screensaver during video playback. Also fixes Back-to-exit on dashboard.",
+    "versionCode": 12,
+    "versionName": "1.0.11",
+    "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/download/v1.0.11/EZTV.apk",
+    "releaseNotes": "Fix screensaver during playback, add logout confirmation, fix Back-to-exit.",
     "forceUpdate": false
 }
