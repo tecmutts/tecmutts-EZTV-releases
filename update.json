@@ -1,7 +1,7 @@
 {
-    "versionCode": 12,
-    "versionName": "1.0.11",
-    "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/download/v1.0.11/EZTV.apk",
-    "releaseNotes": "Fix screensaver during playback, add logout confirmation, fix Back-to-exit.",
+    "versionCode": 13,
+    "versionName": "1.0.12",
+    "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/download/v1.0.12/EZTV.apk",
+    "releaseNotes": "Add grouped Favorites hub with Movies, Series, and Channels sections, while keeping in-place favorite toggles in content screens.",
     "forceUpdate": false
 }
