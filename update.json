@@ -1,7 +1,7 @@
 {
-    "versionCode": 17,
-    "versionName": "1.0.16",
+    "versionCode": 18,
+    "versionName": "1.0.17",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "Fix series audio: enable software decoder fallback for AC3/EAC3/DTS audio codecs.",
+    "releaseNotes": "Fix series playback: correct episode stream ID parsing that was producing invalid URLs.",
     "forceUpdate": false
 }
