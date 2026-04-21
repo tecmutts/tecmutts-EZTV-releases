@@ -1,7 +1,7 @@
 {
-    "versionCode": 18,
-    "versionName": "1.0.17",
+    "versionCode": 19,
+    "versionName": "1.0.18",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "Fix series playback: correct episode stream ID parsing that was producing invalid URLs.",
+    "releaseNotes": "External player support: launch movies and series in MX Player, VLC, or any installed video player. Toggle in Settings.",
     "forceUpdate": false
 }
