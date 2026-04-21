@@ -1,7 +1,7 @@
 {
-    "versionCode": 16,
-    "versionName": "1.0.15",
+    "versionCode": 17,
+    "versionName": "1.0.16",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "DNS fix and series episode parsing fix for panels that return episodes as objects instead of arrays.",
+    "releaseNotes": "Fix series audio: enable software decoder fallback for AC3/EAC3/DTS audio codecs.",
     "forceUpdate": false
 }
