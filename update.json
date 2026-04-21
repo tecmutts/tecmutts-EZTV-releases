@@ -1,7 +1,7 @@
 {
-    "versionCode": 15,
-    "versionName": "1.0.14",
+    "versionCode": 16,
+    "versionName": "1.0.15",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "Live stream format selector (HLS or MPEG-TS), Guide quick-menu navigation wiring, and core playback/navigation fixes.",
+    "releaseNotes": "DNS fix and series episode parsing fix for panels that return episodes as objects instead of arrays.",
     "forceUpdate": false
 }
