@@ -1,7 +1,7 @@
 {
-    "versionCode": 19,
-    "versionName": "1.0.18",
+    "versionCode": 20,
+    "versionName": "1.0.19",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "External player support: launch movies and series in MX Player, VLC, or any installed video player. Toggle in Settings.",
+    "releaseNotes": "Fix settings scroll: external player preference now accessible and navigable via D-pad.",
     "forceUpdate": false
 }
