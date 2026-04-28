@@ -1,7 +1,7 @@
 {
-    "versionCode": 20,
-    "versionName": "1.0.19",
+    "versionCode": 21,
+    "versionName": "1.0.20",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "Fix settings scroll: external player preference now accessible and navigable via D-pad.",
+    "releaseNotes": "Playback hardening for Live TV, VOD, and Series: safer VLC fallback, in-player software decode control, fixed VOD back navigation, cache-first dashboard resume, and clearer background guide sync status.",
     "forceUpdate": false
 }
