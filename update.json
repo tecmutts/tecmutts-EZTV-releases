@@ -1,7 +1,7 @@
 {
-    "versionCode": 21,
-    "versionName": "1.0.20",
+    "versionCode": 22,
+    "versionName": "1.0.21",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "Playback hardening for Live TV, VOD, and Series: safer VLC fallback, in-player software decode control, fixed VOD back navigation, cache-first dashboard resume, and clearer background guide sync status.",
+    "releaseNotes": "Live TV and TV Guide playback recovery: retry transient stream errors before leaving playback, enable automatic VLC fallback for Live TV, and remove persistent player diagnostics overlays.",
     "forceUpdate": false
 }
