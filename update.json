@@ -1,7 +1,7 @@
 {
-    "versionCode": 22,
-    "versionName": "1.0.21",
+    "versionCode": 23,
+    "versionName": "1.0.22",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "Live TV and TV Guide playback recovery: retry transient stream errors before leaving playback, enable automatic VLC fallback for Live TV, and remove persistent player diagnostics overlays.",
+    "releaseNotes": "Switch to the provider's temporary server address following the DNS outage.",
     "forceUpdate": false
 }
