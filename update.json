@@ -1,7 +1,7 @@
 {
-    "versionCode": 25,
-    "versionName": "1.0.24",
+    "versionCode": 26,
+    "versionName": "1.0.25",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "Fix missing series episodes and season selection. Check for updates before signing in, with improved download, permission, retry, and cancellation handling. Clearer TV remote focus and settings selection. Includes Android compatibility fixes and the permanent EZTV server address.",
+    "releaseNotes": "Fix the extra black screen when returning from Live TV categories to Home. Stop the flashing guide notification when guide updates finish, while keeping it active during real background updates.",
     "forceUpdate": false
 }
