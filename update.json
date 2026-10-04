@@ -1,7 +1,7 @@
 {
-    "versionCode": 23,
-    "versionName": "1.0.22",
+    "versionCode": 24,
+    "versionName": "1.0.23",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "Switch to the provider's temporary server address following the DNS outage.",
+    "releaseNotes": "Switch to the provider's permanent server address for login, live TV, movies, series, and guide data.",
     "forceUpdate": false
 }
