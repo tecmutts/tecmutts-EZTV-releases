@@ -1,7 +1,7 @@
 {
-    "versionCode": 24,
-    "versionName": "1.0.23",
+    "versionCode": 25,
+    "versionName": "1.0.24",
     "apkUrl": "https://github.com/tecmutts/tecmutts-EZTV-releases/releases/latest/download/EZTV.apk",
-    "releaseNotes": "Switch to the provider's permanent server address for login, live TV, movies, series, and guide data.",
+    "releaseNotes": "Fix missing series episodes and season selection. Check for updates before signing in, with improved download, permission, retry, and cancellation handling. Clearer TV remote focus and settings selection. Includes Android compatibility fixes and the permanent EZTV server address.",
     "forceUpdate": false
 }
